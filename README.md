@@ -15,7 +15,7 @@ A stylish and secure **password generator**. This tool allows users to generate 
 
 ## 🖥️ Preview
 
-Live Preview: [https://your-netlify-preview-link.netlify.app](https://your-netlify-preview-link.netlify.app)
+Live Preview: [Click to open live preview ](https://passwordgenerator29.netlify.app/)
 
 
 ## 📂 Project Structure
