@@ -18,15 +18,6 @@ A stylish and secure **password generator**. This tool allows users to generate 
 Live Preview: [Click to open live preview ](https://passwordgenerator29.netlify.app/)
 
 
-## 📂 Project Structure
-
-📁 Password-Generator/
-│
-├── index.html 
-├── style.css 
-└── script.js 
-
-
 ## 🛠️ How to Use
 
 1. Open the `index.html` in any modern browser.
